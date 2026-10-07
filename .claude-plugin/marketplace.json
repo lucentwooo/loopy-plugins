@@ -1,0 +1,15 @@
+{
+  "name": "loopy",
+  "description": "Loopy for Claude: customer research, angles, hooks and Meta ad briefs.",
+  "owner": {
+    "name": "Loopy",
+    "email": "info@tryloopy.io"
+  },
+  "plugins": [
+    {
+      "name": "loopy",
+      "source": "./claude/loopy",
+      "description": "Find what your customers really want. Turn it into ads. Research a brand's customers, get angles and hooks, and build Meta ad briefs."
+    }
+  ]
+}

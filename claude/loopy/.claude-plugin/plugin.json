@@ -1,0 +1,13 @@
+{
+  "name": "loopy",
+  "displayName": "Loopy",
+  "version": "1.0.0",
+  "description": "Find what your customers really want. Turn it into ads. Research a brand's customers, get angles and hooks, and build Meta ad briefs.",
+  "author": { "name": "Loopy", "url": "https://tryloopy.io" },
+  "license": "MIT",
+  "documentationUrl": "https://tryloopy.io",
+  "supportUrl": "mailto:info@tryloopy.io",
+  "privacyPolicyUrl": "https://tryloopy.io/privacy",
+  "termsOfServiceUrl": "https://tryloopy.io/terms",
+  "icon": "assets/icon.png"
+}

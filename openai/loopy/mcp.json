@@ -1,0 +1,1 @@
+{"$schema":"https://agent-plugins.org/schemas/1.0.0/mcp.schema.json","mcpServers":{"loopy":{"type":"streamable-http","url":"https://app.tryloopy.io/api/mcp"}}}
